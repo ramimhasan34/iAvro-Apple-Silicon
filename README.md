@@ -7,7 +7,7 @@ None of the previously available versions of Avro Keyboard are compatible with m
 • Compatible with macOS Golden Gate and newer<br>
 
 **Installation**<br>
-1. Download the DMG (https://github.com/ramimhasan34/iAvro-macOS-Apple-Silicon/releases/tag/v3.0)
+1. Download the DMG ([https://github.com/ramimhasan34/iAvro-macOS-Apple-Silicon/releases/tag/v3.0](https://github.com/ramimhasan34/iAvro-Apple-Silicon/releases/tag/v3.0))
 2. Copy Avro Keyboard.app to ~/Library/Input Methods
 3. Log out and log back in
 4. Add Avro Keyboard from System Settings → Keyboard → Input Sources
